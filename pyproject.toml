@@ -1,0 +1,5 @@
+[project]
+name = "agent-designer"
+version = "0.1.0"
+description = "Portable SKILLs workspace for Claude Code, Codex, and Gemini — issue-driven workflows and cross-agent collaboration via bridge scripts with session continuity."
+requires-python = ">=3.10"
